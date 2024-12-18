@@ -36,12 +36,7 @@ My research focuses on developing innovative methods and applying advanced techn
 
 ---
 
-## 🚀 Skills
-
-### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![R Shiny](https://img.shields.io/badge/-R%20Shiny-75AADB?style=flat&logo=rstudio&logoColor=white)  
+ 
 
 
 
