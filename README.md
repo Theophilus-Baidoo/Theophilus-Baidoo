@@ -5,7 +5,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=stars)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theophilus Baidoo&show_icons=true&theme=radical&hide=stars)  
  
 
 
