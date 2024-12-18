@@ -2,16 +2,11 @@
 
 ## 📊 GitHub Stats
 
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theophilus Baidoo&show_icons=true&theme=radical&hide=stars)  
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theophilus-Baidoo&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theophilus-Baidoo&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
+</div>
  
-
-
-
- 
-
 ---
 
 ## 👨‍🎓 About Me
@@ -31,32 +26,6 @@ I have a foundation in data science and programming, with expertise in:
 - 🐍 **Python**
 - 📊 **R**
 - 💻 **R Shiny**
-
-My research focuses on developing innovative methods and applying advanced techniques to solve real-world challenges in statistical modeling and data analysis.
-
----
-
- 
-
-
-
----
-
-
-
----
-
-## 📂 Projects
-
-Here are some of the projects I’ve worked on or am currently working on:
-
-1. **Data-Driven Survival Modeling for Breast Cancer Prognostics**: A comparative study utilizing machine learning and traditional survival modeling methods to enhance breast cancer prognosis accuracy.
-2. **Aging and Cognitive Flexibility**: A longitudinal study analyzing cognitive flexibility using the Ruff Figural Fluency Test (RFFT).
-3. **Machine Learning for Time Series Forecasting**: Applying ML models to predict trends in complex datasets.
-
----
-
-
 
 ---
 
