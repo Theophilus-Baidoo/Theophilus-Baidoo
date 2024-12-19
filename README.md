@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-## 📊 GitHub Stats
+
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Theophilus-Baidoo&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" style="width: 48%;"/>
