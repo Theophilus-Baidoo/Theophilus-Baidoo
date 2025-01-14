@@ -3,9 +3,13 @@
 
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theophilus-Baidoo&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Theophilus-Baidoo&theme=react" 
+            alt="Theophilus GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theophilus-Baidoo&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
 </div>
+
+
+
 
 
 ![R Badge](https://img.shields.io/badge/-276DC3?style=flat-square&logo=r&logoColor=white)
