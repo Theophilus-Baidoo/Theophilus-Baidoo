@@ -17,11 +17,8 @@
  
 ---
 
-## 👨‍🎓 About Me
 
-Hi there! I am a passionate **Ph.D. student** at IUB.
-
-## 📈 My Research Interests
+## 📈 Research Interests
 
 - **Causal Inference**: Exploring relationships and making sense of cause-effect patterns in data.
 - **Stochastic Orderings in Survival Analysis**: Studying statistical methods to analyze time-to-event data.
