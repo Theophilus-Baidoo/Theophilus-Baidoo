@@ -14,7 +14,7 @@
 
 ![R Badge](https://img.shields.io/badge/-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
- 
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://Theophilus-Baidoo.github.io) 
 ---
 
 
